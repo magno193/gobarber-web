@@ -55,7 +55,8 @@
     "import/prefer-default-export": "off",
     "prettier/prettier": "error",
     "camelcase": "warn",
-    "import/no-duplicates": "off"
+    "import/no-duplicates": "off",
+    "@typescript-eslint/camelcase": "warn"
   },
   "settings": {
     "import/resolver": {
